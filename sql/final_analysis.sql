@@ -2,9 +2,19 @@
 
 -- top spending customers
 SELECT `Customer ID`, SUM(`Total Amount`) AS total_spent,
-       RANK() OVER (ORDER BY SUM(`Total Amount`) DESC) AS 'rank'
+       ROW_NUMBER() OVER (ORDER BY SUM(`Total Amount`) DESC) AS 'rank'
 FROM `retail-sales-analysis`.retail_sales_dataset
 GROUP BY `Customer ID`;
+
+-- customer spending distribution
+SELECT total_spent, COUNT(*) AS customer_count
+FROM (
+    SELECT `Customer ID`, SUM(`Total Amount`) AS total_spent
+    FROM `retail-sales-analysis`.retail_sales_dataset
+    GROUP BY `Customer ID`
+) AS spending
+GROUP BY total_spent
+ORDER BY total_spent DESC;
 
 -- running total sales month by month
 SELECT 
