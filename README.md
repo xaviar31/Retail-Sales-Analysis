@@ -47,3 +47,9 @@ These insights have been exported as CSV files for further analysis, including p
 A dashboard has been created in Excel to provide dynamic visualizations based on the insights gained from the data. The dashboard contains multiple charts and slicers to allow users to filter and explore data based on various metrics such as age group and product category. 
 Feel free to explore the [Excel Dashboard](https://docs.google.com/spreadsheets/d/1DQKo8S9sNxvSJi8YkrgP2SEcmIKWsrSP0-sBs_7UghI/edit?gid=1796610357#gid=1796610357) for a hands-on experience. 
 ![Dashboard](Executive_Dashboard.png)
+
+## 📊 Tableau Dashboard
+
+An interactive **Tableau dashboard** visualizes key insights from the retail sales data. The dashboard allows users to explore **customer purchasing patterns, sales trends, and product performance** using interactive filters.
+
+### 🔗 [View the Live Tableau Dashboard](https://public.tableau.com/views/RetailDashboard_17410166538060/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
