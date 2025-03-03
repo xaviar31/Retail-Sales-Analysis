@@ -42,3 +42,7 @@ The dataset contains columns such as Transaction ID, Date, Customer ID, Gender, 
 - 18-25: 84,550 units
 
 These insights have been exported as CSV files for further analysis, including pivot tables and Tableau visualizations.
+
+## Executive Dashboard
+A dashboard has been created in Excel to provide dynamic visualizations based on the insights gained from the data. The dashboard contains multiple charts and slicers to allow users to filter and explore data based on various metrics such as age group and product category. 
+Feel free to explore the [Excel Dashboard](https://docs.google.com/spreadsheets/d/1DQKo8S9sNxvSJi8YkrgP2SEcmIKWsrSP0-sBs_7UghI/edit?gid=1796610357#gid=1796610357) for a hands-on experience. 
