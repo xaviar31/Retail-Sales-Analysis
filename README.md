@@ -50,7 +50,7 @@ These insights have been exported as **CSV files** for further analysis, includi
 ---
 
 ## 📊 Executive Dashboard
-A **dynamic Excel dashboard** has been created to provide visual insights. The dashboard contains **multiple charts and slicers** to allow users to explore data based on different metrics such as **age group and product category.**
+A [**dynamic Excel dashboard**](https://docs.google.com/spreadsheets/d/1DQKo8S9sNxvSJi8YkrgP2SEcmIKWsrSP0-sBs_7UghI/edit?gid=1796610357#gid=1796610357) has been created to provide visual insights. The dashboard contains **multiple charts and slicers** to allow users to explore data based on different metrics such as **age group and product category.**
 
 ![Excel Dashboard Screenshot](Executive_Dashboard.png)
 
