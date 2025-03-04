@@ -1,6 +1,6 @@
 # 🛍️ Retail Sales Analysis
 
-This project analyzes retail sales data using **SQL, Excel, and Tableau** to uncover customer purchasing trends and insights. The dataset contains details about transactions, customers, products, and sales performance.
+This project analyzes retail sales data, from a [Kaggle Dataset](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset), using **SQL, Excel, and Tableau** to uncover customer purchasing trends and insights. The dataset contains details about transactions, customers, products, and sales performance.
 
 ## 🔍 Steps:
 - **📂 Data Gathering:** SQL is used to extract and generate insights from the dataset.
